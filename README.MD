@@ -12,4 +12,4 @@ To set up the Node Jobs API, follow these steps:
 2. Start the API server by running the following command:
 
    ```bash
-     npm install
+   npm start
